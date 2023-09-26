@@ -22,7 +22,7 @@ b) Calculate the average of the five numbers.
 c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
 d) Write out the results found from steps b and c with a message describing what they are
 
-FUNCTION five random numbers:
+FUNCTION generate five random numbers:
 
   FIND the AVERAGE of the five generated numbers
 
